@@ -1,4 +1,4 @@
-![Screenshot (2)](https://github.com/user-attachments/assets/b06be37a-2a42-4720-a759-9af444aa7a1e)# Meal-Plan-App
+# Meal-Plan-App
 **Tiara Anthony**
 **ST10481235**
 **Group 2**
