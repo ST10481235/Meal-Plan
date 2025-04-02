@@ -40,13 +40,11 @@ The design on **Meal Plan App** was influenced by the key design features:
 1. ![Screenshot (10)](https://github.com/user-attachments/assets/371da4a0-8e13-4fe6-8302-633d83a32f1e)
    The Homepage of the application
    
-3. ![Screenshot (11)](https://github.com/user-attachments/assets/0c7ef194-f0c8-4d75-ab83-4436b77a0d37)
+2. ![Screenshot (11)](https://github.com/user-attachments/assets/0c7ef194-f0c8-4d75-ab83-4436b77a0d37)
    The application once information has been filled in.
    
-5. ![Screenshot (12)](https://github.com/user-attachments/assets/c6d32c52-ffd3-4b3a-8de3-78cc61a48869)
+3. ![Screenshot (12)](https://github.com/user-attachments/assets/c6d32c52-ffd3-4b3a-8de3-78cc61a48869)
    The application if a user makes a mistake when filling in information.
-
-### Video Demo:
 
 
  ## 7. Challenges and Learnings
